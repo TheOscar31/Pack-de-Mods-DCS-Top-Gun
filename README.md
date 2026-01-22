@@ -1,7 +1,6 @@
-# PackModsDCSTopGun
+# Pack de Mods de la comunidad de vuelo de DCS Top Gun
 
-SI QUIERES INSTALAR TODO A LA VEZ COPIA Y PEGA AMBAS CARPETAS EN LA RUTA C:\Users\Usuario\Saved Games\DCS\Mods
+### 1. Descarga los 2 zips: "aircraft.zip" y "tech.zip"
 
-
-
-Si quieres instalarlo por separado, la carpeta "tech" va en C:\Users\Usuario\Saved Games\DCS\Mods\tech   ;  y la carpeta "aircraft" va en C:\Users\Usuario\Saved Games\DCS\Mods\aircraft
+ ### **2. PARA INSTALAR TODO A LA VEZ COPIA Y PEGA TODAS LAS CARPETAS EN LA RUTA C:\Users\Usuario\Saved Games\DCS\Mods**
+Te pedirá sobrescribir las carpetas que tienes ya, y esto añadirá todos los mods del pack a los mods que tienes ya.
